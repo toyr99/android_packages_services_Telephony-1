@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Call UI in background -->
+    <string name="bg_incall">Chiamata in background</string>
+    <string name="bg_incall_summary">Mantieni la chiamata in arrivo in background quando lo schermo è acceso, sarà mostrata una notifica e sarà riprodotta la suoneria</string>
+
+    <!-- Advanced Settings -->
+    <string name="advanced_setting">Impostazioni avanzate</string>
+    <string name="incall_vibration">Vibrazione in chiamata</string>
+    <string name="vibrate_outgoing">Vibra alla risposta</string>
+    <string name="vibrate_call_waiting">Vibra alla chiamata in attesa</string>
+    <string name="vibrate_hangup">Vibra alla visione della chiamata</string>
+    <string name="vibrate_45">Vibra ogni minuto</string>
+    <string name="vibrate_45_sum">Vibra al 45esimo secondo di ogni chiamta in uscita</string>
+
+    <!-- Number lookup -->
+    <string name="number_lookup">Ricerca numeri di telefono</string>
+    <string name="enable_forward_lookup_title">Ricerca luoghi</string>
+    <string name="enable_forward_lookup_summary">Mostra luoghi vicini durante la ricerca nel dialer</string>
+    <string name="enable_people_lookup_title">Ricerca persone</string>
+    <string name="enable_people_lookup_summary">Mostra risultati di persone online durante la ricerca nel dialer</string>
+    <string name="enable_reverse_lookup_title">Ricerca inversa</string>
+    <string name="enable_reverse_lookup_summary">Mostra informazioni sulla persona o il luogo per numeri sconosciuti nella chiamata in arrivo</string>
+    <string name="choose_lookup_providers">Scegli provider di ricerca</string>
+    <string name="choose_forward_lookup_provider_title">Scegli provider di ricerca luoghi</string>
+    <string name="choose_people_lookup_provider_title">Scegli provider di ricerca persone</string>
+    <string name="choose_reverse_lookup_provider_title">Scegli provider di ricerca inversa</string>
+
+    <!-- Chinese Reverse Lookup Provider -->
+    <string name="cyngn_reverse_lookup_provider_name">Cinese cyngn (CN)</string>
+    </resources>
